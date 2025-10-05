@@ -8,12 +8,11 @@
     "symbols.folders.associations": {
         "web": "folder-shared",
         "storage": "folder-build",
-        "infrastructure": "folder-services",
+        "infrastructure": "folder-utils",
         "io": "folder-helpers",
         "tasks": "folder-router",
         "core": "folder-react",
         "logics": "folder-core",
-        "drivers": "folder-utils",
         "template": "folder-red-code"
     },
     "editor.minimap.enabled": false,
@@ -74,5 +73,6 @@
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "window.commandCenter": false,
     "workbench.sideBar.location": "right",
-    "javascript.updateImportsOnFileMove.enabled": "never"
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "python.analysis.typeCheckingMode": "strict"
 }
