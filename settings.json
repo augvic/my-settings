@@ -74,5 +74,5 @@
     "window.commandCenter": false,
     "workbench.sideBar.location": "right",
     "javascript.updateImportsOnFileMove.enabled": "never",
-    "python.analysis.typeCheckingMode": "strict"
+    "python.analysis.typeCheckingMode": "basic"
 }
