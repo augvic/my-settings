@@ -1,3 +1,3 @@
-## Visual Studio Code Settings
+## My Settings
 
-My VSCode "settings.json".
+Settings for some softwares.
