@@ -6,7 +6,11 @@
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.associations": {
-        "io": "interface"
+        "io": "interface",
+        "storage": "dump"
+    },
+    "material-icon-theme.files.associations": {
+        "*.spec": "makefile"
     },
     "editor.minimap.enabled": false,
     "editor.fontLigatures": true,
