@@ -3,6 +3,7 @@
     "workbench.layoutControl.enabled": false,
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontWeight": "bold",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.associations": {
