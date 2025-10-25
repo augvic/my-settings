@@ -19,4 +19,6 @@ Frameworks:
     <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
     <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img width=50px src="https://cdn.jsdelivr.net/gh/augvic/augvic@latest/screenshots/devicons/xlwings.png" />
+    <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 </div>
