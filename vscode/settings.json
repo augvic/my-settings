@@ -8,7 +8,8 @@
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.associations": {
         "io": "interface",
-        "storage": "dump"
+        "storage": "dump",
+        "cortex": "core"
     },
     "material-icon-theme.files.associations": {
         "*.spec": "makefile"
