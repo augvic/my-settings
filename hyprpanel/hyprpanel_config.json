@@ -58,7 +58,7 @@
   "bar.network.label": true,
   "bar.network.truncation": false,
   "bar.bluetooth.label": true,
-  "bar.notifications.show_total": false,
+  "bar.notifications.show_total": true,
   "menus.media.displayTime": true,
   "menus.media.displayTimeTooltip": true,
   "theme.notification.enableShadow": false,
